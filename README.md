@@ -1,9 +1,8 @@
 # Ola eu sou o Vitor Cunha <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-- Moro na Palhoça, Rio Grande:sunglasses:
-- Eu sempre gostei de programar e não consigo me ver atuando em outra área :computer::coffee:
-- Ciências da Computação, inicio - 02/2021 :woman_technologist:
-- Desejo me tornar um bom profissional fazendo o que amo :grin: 
-
+- Moro na Palhoça, Rio Grande
+- Eu sempre gostei de programar e não consigo me ver atuando em outra área 
+- Ciências da Computação, inicio - 02/2021 
+- Desejo me tornar um bom profissional fazendo o que amo 
 <br>
 <br>
 
