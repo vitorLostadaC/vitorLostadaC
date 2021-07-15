@@ -1,4 +1,4 @@
-# Ola eu sou o Vitor Cunha <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+# Olá, eu sou o Vitor Cunha <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 - Moro na Palhoça, Rio Grande
 - Eu sempre gostei de programar e não consigo me ver atuando em outra área 
 - Ciências da Computação, inicio - 02/2021 
