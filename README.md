@@ -21,7 +21,7 @@
 
 <br>
 
-## Contact! :iphone:
+## Social ! :iphone:
 
 <p align="center">
     <a href="https://github.com/VitorCunhaP">
@@ -35,12 +35,11 @@
     <a href="https://www.linkedin.com/in/vitorlostada/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/dudu-cardoso/">
     </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.youtube.com/channel/UCSWhO4BUp3e8WjFv35gtxag" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+    </a>
 </p>
 
 <br>
 
- ## Total visits! :detective:
- 
- <p align="center">
-   <img alingn="center" src="https://profile-counter.glitch.me/VitorCunhaP/count.svg" />
- </p>
