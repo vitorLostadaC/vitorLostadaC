@@ -1,7 +1,7 @@
 # Hi, I'm Vitor Cunha <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 - I live in Palhoça, Rio Grande.
 - I've always liked programming and I can't see myself working in another area.
-- Computer Science, start - 02/2021 
+- Computer Science, 02/2021 
 - I want to become a good professional doing what I love.
 <br>
 
