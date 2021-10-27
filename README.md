@@ -45,5 +45,5 @@
     </a>
 </p>
 
-![Snake animation](https://github.com/VitorCunhaP/vitorLostadaC/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/vitorLostadaC/vitorLostadaC/blob/output/github-contribution-grid-snake.svg)
 
