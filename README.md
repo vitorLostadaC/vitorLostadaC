@@ -7,7 +7,7 @@
 
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorCunhaP&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorLostadaC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     </div>
     
 <br>
@@ -45,5 +45,5 @@
     </a>
 </p>
 
-![Snake animation](https://github.com/VitorCunhaP/VitorCunhaP/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/VitorCunhaP/vitorLostadaC/blob/output/github-contribution-grid-snake.svg)
 
