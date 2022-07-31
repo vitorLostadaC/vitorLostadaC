@@ -1,7 +1,5 @@
 <h1 align="center">Vitor Lostada da Cunha</h1>
 
-
-
 <p align="center">
     <a href="mailto:vitorlostada@hotmail.com">
         <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
@@ -21,25 +19,18 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorLostadaC&layout=compact&langs_count=7&theme=dark"/></a>
 </div>
 
-
-
 <br/>
-
-
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=js,ts,css,html,react,nextjs,nodejs,graphql,apollo,mysql,mongodb,supabase" />
 </p>
 
 
- 
-
-
 # Hi, I'm Vitor Cunha👋
 - I live in Palhoça.
 - I've always liked programming and I can't see myself working in another area.
 - Computer Science, 02/2021 
-- I want to become a good professional doing what I love.
+- I love to learn new things.
 <br/>
 
 ![Snake animation](https://github.com/vitorLostadaC/vitorLostadaC/blob/output/github-contribution-grid-snake.svg)
