@@ -31,6 +31,7 @@
 - I've always liked programming and I can't see myself working in another area.
 - Computer Science, 02/2021 
 - I love to learn new things.
+- I want to become a full stack dev, i am currently specializing in the front.
 <br/>
 
 ![Snake animation](https://github.com/vitorLostadaC/vitorLostadaC/blob/output/github-contribution-grid-snake.svg)
