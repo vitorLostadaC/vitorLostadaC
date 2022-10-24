@@ -22,7 +22,7 @@
 <br/>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,css,html,react,nextjs,nodejs,graphql,apollo,mysql,mongodb,supabase,docker,linux,jest,firebase," />
+    <img src="https://skillicons.dev/icons?i=js,ts,css,html,react,nextjs,nodejs,graphql,apollo,mysql,mongodb,supabase,docker,linux,jest,firebase&perline=8" />
 </p>
 
 
