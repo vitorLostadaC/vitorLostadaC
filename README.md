@@ -26,10 +26,10 @@
 </p>
 
 
-# Hi, I'm Vitor Cunha👋
-- I live in Palhoça.
-- I've always liked programming and I can't see myself working in another area.
-- Computer Science, 02/2021 
+### Hi, I'm Vitor Cunha👋 I've always liked programming and I can't see myself working in another area.
+
+
+
 <br/>
 
 ![Snake animation](https://github.com/vitorLostadaC/vitorLostadaC/blob/output/github-contribution-grid-snake.svg)
