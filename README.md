@@ -30,6 +30,3 @@
 
 
 <br/>
-
-![Snake animation](https://github.com/vitorLostadaC/vitorLostadaC/blob/output/github-contribution-grid-snake.svg)
-
